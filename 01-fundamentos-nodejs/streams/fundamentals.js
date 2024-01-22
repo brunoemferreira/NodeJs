@@ -17,7 +17,6 @@ class OneToHundredStream extends Readable {
             }
         }, 1000)
     }
-
 }
 
 class InverseNumberStream extends Transform{
